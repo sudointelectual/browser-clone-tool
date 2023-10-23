@@ -14,3 +14,4 @@ To keep several browser profiles, log-ins, cookies, cache, addons totally separa
    script.
  - Change `main_dir = '/path/to/desired/folder'` variable to to the path where you want your browser profiles to live.
  - Launch this script from a keybind or script launcher
+[browser-tool-github.webm](https://github.com/sudointelectual/browser-clone-tool/assets/103446116/7458cd4e-f9f2-46f8-9287-a7dcde4a572c)
